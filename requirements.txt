@@ -1,0 +1,6 @@
+aiohttp
+asyncio
+cssselect>=1.1.0
+korean_romanizer
+krdict.py @ git+https://github.com/coffeebank/krdict.py.git@main
+lxml>=4.9.1
