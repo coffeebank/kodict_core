@@ -12,3 +12,9 @@ pip install kodict-core
   - Searches National Institute of Korean Language's Korean-English Learners' Dictionary (한국어기초사전)
   - Uses API for Hangul/Hanja and Scraper for English
   - Searches DeepL Translate for fallback
+
+<br />
+
+## Services using kodict_core
+
+- [`kodict-dpy`](https://github.com/coffeebank/kodict-dpy) - A Discord bot using `kodict_core` (GPL-3.0 License)
